@@ -35,6 +35,13 @@ A simple Python program that:
 What is your name? Anquinetta
 Hello Anquinetta
 ```
+## Repository Structure
+
+```plaintext
+roots-to-pipelines/
+│── PersonalHello.py
+│── README.md
+```
 
 ## Learning Goals
 
