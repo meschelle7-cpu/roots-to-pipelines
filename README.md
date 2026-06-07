@@ -1,2 +1,2 @@
 # roots-to-pipelines
-Aspiring Data Engineer
+Python learning projects documenting my journey toward data engineering.
