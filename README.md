@@ -2,11 +2,11 @@
 # Roots to Pipelines 🚀
 
 ## Overview
-Tech Stack
-Python
-Git
-GitHub
-Command Line Interface (CLI)
+## Tech Stack
+* Python
+* Git
+* GitHub
+* Command Line Interface (CLI)
 
 This repository documents my Python learning journey as I transition toward a career in data engineering and analytics.
 
